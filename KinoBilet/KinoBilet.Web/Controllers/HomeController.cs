@@ -1,5 +1,5 @@
-﻿using KinoBilet.Web.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using KinoBilet.Web.Models;
 using System.Diagnostics;
 
 namespace KinoBilet.Web.Controllers

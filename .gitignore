@@ -1,0 +1,16 @@
+
+*.v2
+*.v2
+KinoBilet/.vs/KinoBilet/v17/.suo
+*.cache
+KinoBilet/.vs/KinoBilet/DesignTimeBuild/.dtbcache.v2
+KinoBilet/KinoBilet.Domain/obj/Debug/net6.0/KinoBilet.Domain.assets.cache
+KinoBilet/KinoBilet.Domain/obj/Debug/net6.0/KinoBilet.Domain.csproj.AssemblyReference.cache
+*.v2
+*.v1
+KinoBilet/KinoBilet.Web/obj/Debug/net6.0/KinoBilet.Web.csproj.AssemblyReference.cache
+*.v2
+KinoBilet/.vs/KinoBilet/v16/.suo
+KinoBilet/KinoBilet.Domain/obj/Debug/net6.0/KinoBilet.Domain.assets.cache
+KinoBilet/KinoBilet.Domain/obj/Debug/net6.0/KinoBilet.Domain.csproj.AssemblyReference.cache
+KinoBilet/KinoBilet.Web/obj/Debug/net6.0/KinoBilet.Web.csproj.AssemblyReference.cache

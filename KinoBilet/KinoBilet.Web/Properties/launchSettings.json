@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:40944",
-      "sslPort": 44344
+      "applicationUrl": "http://localhost:9580",
+      "sslPort": 44313
     }
   },
   "profiles": {
-    "KinoBilet.Web": {
+    "MovieTicketShop.Web": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7254;http://localhost:5184",
+      "applicationUrl": "https://localhost:7039;http://localhost:5039",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
